@@ -17,7 +17,7 @@ Bu proje aşağıdaki teknolojilerle geliştirilmiştir:
 - Android Studio (varsa)
 - Çeviri API’leri (Google Translate, DeepL vb. — proje detayı)
 
-> **Not:** Projende kullandığın teknolojiye göre bu kısmı düzeltebilirsin.
+
 
 ## 🔁 Kurulum
 
